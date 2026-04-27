@@ -1,12 +1,12 @@
 # 1. Related Research & Papers
 
-- :contentReference[oaicite:0]{index=0}  
+- Boost Vision Transformer with GPU-Friendly Sparsity and Quantization  
   https://arxiv.org/pdf/2305.10727
 
-- :contentReference[oaicite:1]{index=1}  
+- Accelerating Transformer Pre-training with 2:4 Sparsity  
   https://arxiv.org/pdf/2404.01847
 
-- :contentReference[oaicite:2]{index=2}  
+- Learning Structured Sparsity in Deep Neural Networks  
   https://arxiv.org/pdf/1608.03665
 
 
