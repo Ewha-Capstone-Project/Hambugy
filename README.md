@@ -1,4 +1,4 @@
-# Hambugy
+# Vision-Language Model의 실질적 엣지 가속을 위한 2:4 Structured Sparsity 최적화 파이프라인 구축
 | Name     | GitHub                                     |
 | -------- | ------------------------------------------ |
 | 신성현 | [@cindyshin2211](https://github.com/cindyshin2211) |
