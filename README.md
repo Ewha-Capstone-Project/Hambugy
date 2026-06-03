@@ -1,4 +1,4 @@
-# 2:4 Structured Sparsity for Vision Transformers on Edge: A System-Level Analysis on Edge Device
+# 2:4 Structured Sparsity for Faster ViT Inference on Edge Devices: TensorRT Fusion and Speed Bottlenecks
 
 > **NVIDIA Jetson AGX Orin** 위에서 Vision Transformer 계열 모델에 2:4 Structured Sparsity를 적용하고,  
 > TensorRT Fusion이 Sparse Tensor Core 활용을 어떻게 방해하는지 분석하여 커널 수준에서 해결하는 파이프라인
