@@ -1,3 +1,27 @@
+# 회의록 (2026-09-10)
+
+## 1. ACK 논문 작성 결정
+- ACK 논문을 작성하기로 결정
+- **마감: 9/15 (월)**
+
+## 2. 논문 목차 및 역할분담
+- 요약
+- 1. Introduction — 영채
+- 2. Related Works — 영채
+- 3. Design and Implementation — 성현
+- 4. Experiments — 수연
+- 5. Conclusion — 수연
+- Acknowledgement
+- References
+
+---
+
+# 회의록 (2026-09-08)
+
+## 발표 수행, 따로 회의 진행하지 않음
+
+---
+
 # 회의록 (2026-09-03)
 
 ## 1. 발표 역할분담
