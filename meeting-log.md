@@ -1,3 +1,16 @@
+# 회의록 (2026-10-13)
+## 1. 추가 실험 역할분담
+
+- Fusion vs. Sparsity 분리 실험 - 영채
+- kernel gain과 E2E Gap 분해 - 성현
+- N × Dimension Performance Boundary + Analytical Model - 수연
+
+## 2. 회의 날짜 선정
+
+- 10/18(일) 오전 9:30 줌 회의
+
+---
+
 # 회의록 (2026-09-29)
 ## 1. 중간 발표 역할분담
 
